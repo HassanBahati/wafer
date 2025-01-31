@@ -50,3 +50,7 @@ nosetests.xml
 
 # Selenium log files
 geckodriver.log
+
+node_modules/
+
+venv/
